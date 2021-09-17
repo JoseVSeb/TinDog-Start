@@ -152,6 +152,16 @@ p {
     font-size: 2rem;
 }
 
+/* Footer Section */
+#footer {
+    text-align: center;
+    padding: 5% 15%;
+}
+
+#footer i {
+    margin: 1em 0.5em;
+}
+
 
 @media (max-width:1028px) {
     #title {
